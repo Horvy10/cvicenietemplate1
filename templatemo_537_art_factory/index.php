@@ -42,7 +42,7 @@ https://templatemo.com/tm-537-art-factory
     <!-- ***** Header Area End ***** -->
 
     <?php
-    include="parts/header.php";
+    include "parts/header.php";
 
     ?>
 
@@ -391,7 +391,7 @@ https://templatemo.com/tm-537-art-factory
 
 
     <?php
-    include="parts/footer.php";
+    include "parts/footer.php";
 
     ?>
     
